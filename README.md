@@ -1,4 +1,4 @@
-# Modern Landing Page & Secure Admin Dashboard 🚀
+# Spring Boot Landing Page - Internship Task 4
 
 > A full-stack, responsive "Contact Us" landing page featuring a glassmorphism UI, form handling, and a secure admin dashboard built with **Spring Boot**, **Thymeleaf**, **Spring Security**, and **MySQL**.
 
